@@ -1,0 +1,11 @@
+[
+                               ["full name", "ali"],
+                               ["cin", "ch1341223"],
+                               ["age", 20],
+
+                               ["born city", "sale"],
+                               ["favorite city", "sale"],
+                               ["favorite habits", "idk"],
+                               ["favorite sport", "idk"],
+                               ["creation date", "2023-04-26 06:44:58.439859"]
+                           ]

@@ -1,0 +1,10 @@
+[
+                               ["full name", "mohammed ali boutaine"],
+                               ["cin", "ae1298312"],
+                               ["age", 19],
+                               ["born city", "sale"],
+                               ["favorite city", "sale"],
+                               ["favorite habits", "adwad"],
+                               ["favorite sport", "awdaw"],
+                               ["creation date", "2023-04-26 02:22:13.871290"]
+                           ]

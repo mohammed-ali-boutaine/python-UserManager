@@ -1,0 +1,11 @@
+[
+                               ["full name", "adam bat"],
+                               ["cin", "ab1242321"],
+                               ["age", 20],
+
+                               ["born city", "rabat"],
+                               ["favorite city", "rabat"],
+                               ["favorite habits", "gaming"],
+                               ["favorite sport", "runing"],
+                               ["creation date", "2023-04-26 06:37:33.181121"]
+                           ]

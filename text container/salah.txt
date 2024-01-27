@@ -1,0 +1,11 @@
+[
+                               ["full name", "salah"],
+                               ["cin", "ah1342123"],
+                               ["age", 19],
+
+                               ["born city", "casa"],
+                               ["favorite city", "casa"],
+                               ["favorite habits", "sleeping"],
+                               ["favorite sport", "boxing"],
+                               ["creation date", "2023-04-26 06:38:21.201021"]
+                           ]
